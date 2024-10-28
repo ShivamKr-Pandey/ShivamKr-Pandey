@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <!--
 **ShivamKr-Pandey/ShivamKr-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
