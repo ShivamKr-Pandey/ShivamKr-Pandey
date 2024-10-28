@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 My name is Shivam and I'm a front-end developer. Currently I work in a Marketing Automation team and my role is to create assets and custom solutions for our clients. I like to learn new things and keep myself updated. For that I use: 
-<div align="center">
-  `![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)`
-</div>
+
+  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 
 <div align="center"> <h2 class="markdown-heading" dir="auto"> I'm learning</h2> </div>
 <div align="center"><span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>&nbsp;<span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
