@@ -2,7 +2,7 @@
 
 My name is Shivam and I'm a front-end developer. Currently I work in a Marketing Automation team and my role is to create assets and custom solutions for our clients. I like to learn new things and keep myself updated. For that I use: 
 <div align="center">
-  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)&nbsp;![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) &nbsp; ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </div>
 
 <div align="center"> <h2 class="markdown-heading" dir="auto"> I'm learning</h2> </div>
