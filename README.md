@@ -18,6 +18,7 @@ My name is Shivam and I'm a front-end developer. Currently I work in a Marketing
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   </p>
 </div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
 
 <!--
 **ShivamKr-Pandey/ShivamKr-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
