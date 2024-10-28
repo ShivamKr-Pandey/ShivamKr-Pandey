@@ -19,10 +19,10 @@ My name is Shivam and I'm a front-end developer. Currently I work in a Marketing
   </a>
 </p>
 
-🔭 I’m currently working on my DSA, which I will be doing in python.
-📫 How to reach me: &nbsp;<a href="mailto:itsshivampandey@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
+<p>🔭 I’m currently working on my DSA, which I will be doing in python.</p>
+<p>📫 How to reach me: &nbsp;<a href="mailto:itsshivampandey@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
 <a href="https://www.linkedin.com/in/shivam-pandey-8bb67b158/" rel="noopener noreferrer nofollow" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+</p>
 <div class="markdown-heading"> <h2 class="markdown-heading" dir="auto"> 🌱 I’m currently learning ...</h2> 
 <p dir="auto"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
