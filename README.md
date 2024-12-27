@@ -36,7 +36,7 @@ My name is Shivam and I'm a front-end developer. Currently I work in a Marketing
 <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" data-canonical-src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" style="max-width: 100%;"> &nbsp;
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&amp;logo=crunchyroll&amp;logoColor=white" alt="Crunchyroll" data-canonical-src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&amp;logo=crunchyroll&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
-
+<a href="https://app.daily.dev/droplly"><img src="https://api.daily.dev/devcards/v2/Humi9DDbGUq4rrAFO7afe.png?type=default&r=2ww" width="356" alt="Shivam Pandey's Dev Card"/></a>
 
 <!--
 **ShivamKr-Pandey/ShivamKr-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
